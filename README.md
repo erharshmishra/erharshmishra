@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm** 
 
-- 👯 I’m looking to collaborate on **NIELIT Chatbot**
+- 👯 I’m looking to collaborate on **NIELIT Chatbot**   
 
 - 📫 How to reach me **harshmishra8103@gmail.com**
 
