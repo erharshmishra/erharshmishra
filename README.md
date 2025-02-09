@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Algorithm Visualizer**
 
-- 🌱 I’m currently learning **Data Structure and Algorithm** 
+- 🌱 I’m currently learning **Data Structure and Algorithm**  
 
 - 👯 I’m looking to collaborate on **NIELIT Chatbot**   
 
