@@ -1,4 +1,3 @@
-<!-- ✨ Full-width Light Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Harsh%20Mishra&fontSize=45&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=center&fontColor=ffffff" />
 
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
@@ -18,9 +17,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Algorithm Visualizer**  
+- 🔭 I’m currently working on **NIELIT Chatbot**  
 - 🌱 Learning: **Data Structures and Algorithms**  
-- 🤝 Seeking collaboration on **NIELIT Chatbot**  
+- 🤝 Seeking collaboration on **Coding Platform**  
 - 📫 Reach me at: **harshmishra8103@gmail.com**  
 - ⚡ Fun Fact: *“I believe consistency beats talent.”*
 
